@@ -1,0 +1,113 @@
+{
+	"status": "000000",
+	"message": "请求成功",
+	"charge": true,
+	"result": {
+		"sk": {
+			"temp": "3",
+			"wind_direction": "西风",
+			"wind_strength": "1级",
+			"humidity": "31%",
+			"time": "20:13"
+		},
+		"today": {
+			"temperature": "-2℃~8℃",
+			"weather": "晴转多云",
+			"weather_id": {
+				"fa": "00",
+				"fb": "01"
+			},
+			"wind": "西南风微风",
+			"week": "星期五",
+			"city": "北京",
+			"date_y": "2018年11月16日",
+			"dressing_index": "较冷",
+			"dressing_advice": "建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。",
+			"uv_index": "弱",
+			"comfort_index": "",
+			"wash_index": "较适宜",
+			"travel_index": "较不宜",
+			"exercise_index": "较不宜",
+			"drying_index": ""
+		},
+		"future": {
+			"day_20181116": {
+				"temperature": "-2℃~8℃",
+				"weather": "晴转多云",
+				"weather_id": {
+					"fa": "00",
+					"fb": "01"
+				},
+				"wind": "西南风微风",
+				"week": "星期五",
+				"date": "20181116"
+			},
+			"day_20181117": {
+				"temperature": "-2℃~9℃",
+				"weather": "多云转晴",
+				"weather_id": {
+					"fa": "01",
+					"fb": "00"
+				},
+				"wind": "西南风微风",
+				"week": "星期六",
+				"date": "20181117"
+			},
+			"day_20181118": {
+				"temperature": "-3℃~11℃",
+				"weather": "晴",
+				"weather_id": {
+					"fa": "00",
+					"fb": "00"
+				},
+				"wind": "北风微风",
+				"week": "星期日",
+				"date": "20181118"
+			},
+			"day_20181119": {
+				"temperature": "-2℃~10℃",
+				"weather": "晴",
+				"weather_id": {
+					"fa": "00",
+					"fb": "00"
+				},
+				"wind": "北风微风",
+				"week": "星期一",
+				"date": "20181119"
+			},
+			"day_20181120": {
+				"temperature": "-1℃~10℃",
+				"weather": "多云",
+				"weather_id": {
+					"fa": "01",
+					"fb": "01"
+				},
+				"wind": "北风微风",
+				"week": "星期二",
+				"date": "20181120"
+			},
+			"day_20181121": {
+				"temperature": "-2℃~10℃",
+				"weather": "晴",
+				"weather_id": {
+					"fa": "00",
+					"fb": "00"
+				},
+				"wind": "北风微风",
+				"week": "星期三",
+				"date": "20181121"
+			},
+			"day_20181122": {
+				"temperature": "-2℃~9℃",
+				"weather": "多云转晴",
+				"weather_id": {
+					"fa": "01",
+					"fb": "00"
+				},
+				"wind": "西南风微风",
+				"week": "星期四",
+				"date": "20181122"
+			}
+		}
+	}
+}
